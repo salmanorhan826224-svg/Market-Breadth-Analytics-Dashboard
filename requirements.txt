@@ -1,0 +1,9 @@
+requests
+numpy
+pandas
+tqdm
+plotly
+yfinance
+matplotlib
+openpyxl
+beautifulsoup4
