@@ -1,5 +1,19 @@
 # Market Breadth and Relative Strength Analytics Dashboard
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 A systematic market analytics platform that collects daily OHLCV data for the full NASDAQ universe (3,941 stocks), computes market breadth metrics, relative strength rankings, and McClellan oscillator signals, and compiles everything into an interactive Plotly HTML dashboard. The pipeline runs end-to-end from a single command.
 
 ---
@@ -227,22 +241,14 @@ If you already have data in `data/polygon_stock_data/` (as included in this repo
 
 ---
 
-## Author
-
-**Abdul Rehman Rattu**
-Founder and CEO, Rapide Technologies
-
-- Email: rattu786.ar@gmail.com
-- LinkedIn: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
-
 ---
 
-## License
+## Author & Maintainer
 
-This project is released under the MIT License. You are free to use, modify, and distribute it with attribution.
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
 
----
-
-## Disclaimer
-
-This tool is for research and informational purposes only. The breadth metrics, relative strength scores, and dashboard outputs do not constitute financial advice and should not be used as the sole basis for any investment decision.
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
